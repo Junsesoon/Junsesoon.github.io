@@ -95,7 +95,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 
-theme: jekyll-theme-hydejack # 원격에 배포할 때는 주석처리 할 것!(중요)
+# theme: jekyll-theme-hydejack # 원격에 배포할 때는 주석처리 할 것!(중요)
 remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
