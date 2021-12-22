@@ -52,7 +52,7 @@ menu:
     url:               /about/
   - title:             ADP
     url:               /ADP/
-    submenu:           
+    submenu:
       - title:           Analysis
         url:             /Analysis/
       - title:           Management
@@ -61,7 +61,7 @@ menu:
         url:             /Visualize/
   - title:             Python
     url:               /Python/
-    submenu:           
+    submenu:
       - title:         Code
         url:           /Code/
   - title:             R

@@ -1,6 +1,6 @@
 ---
 layout: list 
-bigtitle: ADP
+title: ADP
 slug: ADP
 description: > 
   ADP 데이터 분석 전문가 자격증 자료
