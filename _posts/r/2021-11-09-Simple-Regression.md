@@ -9,7 +9,8 @@ sitemap: false
 hide_last_modified: true
 invert_sidebar: false
 categories:
-  - R
+  - r
+  - code
 ---
 
 # 단순선형 회귀분석

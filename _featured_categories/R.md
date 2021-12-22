@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: R
-slug: R
+slug: r
 menu: true
 submenu: true
 description: >
@@ -14,4 +14,4 @@ description: >
 
 * [Code]{:.heading.flip-title} --- 각종 R code
 
-[Code]: /Code/
+[Code]: /code/
