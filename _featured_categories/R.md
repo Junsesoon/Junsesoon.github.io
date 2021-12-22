@@ -1,7 +1,7 @@
 ---
 layout: list
-title: R
-slug: R
+bigtitle: R
+slug: r
 menu: true
 submenu: true
 description: >
