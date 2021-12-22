@@ -1,8 +1,8 @@
 ---
 layout: list
-category: subcat
-bigtitle: Test1
-slug: test1
+category: R
+bigtitle: Code
+slug: code
 description: >
   하위메뉴 테스트1
 
