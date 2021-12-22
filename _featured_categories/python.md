@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: Python
-slug: Python
+slug: python
 menu: true
 submenu: true
 description: >

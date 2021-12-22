@@ -2,7 +2,7 @@
 layout: list
 category: Python
 bigtitle: Code
-slug: Code
+slug: code
 description: >
   Python submenu
 
