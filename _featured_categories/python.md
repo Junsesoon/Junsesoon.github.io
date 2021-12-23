@@ -1,7 +1,7 @@
 ---
 layout: list
 bigtitle: Python
-slug: Python
+slug: python
 menu: true
 submenu: true
 description: >
@@ -14,4 +14,4 @@ description: >
 
 * [Code]{:.heading.flip-title} --- 각종 Python code
 
-[Code]: /Code/
+[Code]: /code/

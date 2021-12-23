@@ -10,8 +10,8 @@ description: >
   단순 예외 처리 방법
 invert_sidebar: true
 categories:
-  - Python
-  - Code
+  - python
+  - code
 ---
 
 # 단순 예외 처리 코드

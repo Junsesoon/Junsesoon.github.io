@@ -1,10 +1,10 @@
 ---
 layout: list
-category: python
+category: r
 bigtitle: Code
 slug: code
 description: >
-  Python submenu
+  r submenu
 
 related_posts:
   -

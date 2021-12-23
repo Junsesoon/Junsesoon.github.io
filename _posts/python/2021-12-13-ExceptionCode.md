@@ -10,7 +10,7 @@ description: >
   중첩 예외 처리 방법
 invert_sidebar: true
 categories:
-  - Python
+  - python
 ---
 
 # 중첩 예외 처리 코드
@@ -45,3 +45,4 @@ finally :
     print('finally 영역 - 항상 실행되는 영역')
 
 ```
+(수정중)

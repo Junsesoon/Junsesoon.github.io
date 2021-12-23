@@ -52,23 +52,23 @@ menu:
     url:               /about/
 
   - title:             ADP
-    url:               /ADP/
+    url:               /adp/
     submenu:           
       - title:           Analysis
-        url:             /Analysis/
+        url:             /analysis/
       - title:           Management
-        url:             /Management/
+        url:             /management/
       - title:           Visualize
-        url:             /Visualize/
+        url:             /visualize/
 
   - title:             Python
-    url:               /Python/
+    url:               /python/
     submenu:           
       - title:         Code
-        url:           /Code/
+        url:           /code/
         
   - title:             R
-    url:               /R/
+    url:               /r/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
