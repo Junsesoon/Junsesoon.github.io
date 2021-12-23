@@ -15,5 +15,5 @@ description: >
 * [HTML]{:.heading.flip-title} --- HTML 학습자료
 * [CSS]{:.heading.flip-title} --- CSS 학습자료
 
-[Code]: /html/
-[Code]: /css/
+[HTML]: /html/
+[CSS]: /css/
