@@ -35,3 +35,19 @@
 .nav-btn-bar {
   height: 3rem;
 }
+
+.content .avatar {
+  float: right  !important; //이미지 위치, important 옵션은 지킬테마를 강제로 바꾸기 위함
+  box-sizing: content-box;
+  border: 1rem solid var(--body-bg);
+  transition: border-color is ease;
+  margin-top: 5px !important;
+  margin-right: 5px !important;
+  width: 140px  !important;
+  height: 140px !important;
+}
+
+.author-body-description {
+  margin-left: 20px !important;
+  margin-top: 20px  !important;
+}
