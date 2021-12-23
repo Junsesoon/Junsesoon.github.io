@@ -2,7 +2,7 @@
 layout: list
 category: ADP
 bigtitle: Visualize
-slug: Visualize
+slug: visualize
 description: >
   데이터 시각화 파트
 

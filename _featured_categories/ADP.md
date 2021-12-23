@@ -17,6 +17,6 @@ description: >
 * [Management]{:.heading.flip-title} --- 데이터 처리 기술 파트
 * [Visualize]{:.heading.flip-title} --- 데이터 시각화 파트
 
-[Analysis]: /Analysis/ 
-[Management]: /Management/
-[Visualize]: /Visualize/
+[Analysis]: /analysis/ 
+[Management]: /management/
+[Visualize]: /visualize/

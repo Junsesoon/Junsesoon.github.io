@@ -12,6 +12,6 @@ description: >
 
 ## 카테고리
 
-* [Code]{:.heading.flip-title} --- 각종 R code
+* [Code]{:.heading.flip-title} --- R 학습자료
 
 [Code]: /code/

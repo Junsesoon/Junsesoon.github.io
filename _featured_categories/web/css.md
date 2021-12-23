@@ -1,10 +1,10 @@
 ---
 layout: list
-category: ADP
-bigtitle: Analysis
-slug: analysis
+category: web
+bigtitle: CSS
+slug: css
 description: >
-  데이터 분석 파트
+  css 학습자료
 
 related_posts:
   -

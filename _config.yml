@@ -70,6 +70,14 @@ menu:
   - title:             R
     url:               /r/
 
+  - title:             Web publishing
+    url:               /web/
+    submenu:           
+      - title:           HTML
+        url:             /html/
+      - title:           CSS
+        url:             /css/
+
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
