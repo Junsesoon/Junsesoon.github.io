@@ -1,20 +1,13 @@
-# Hydejack Starter Kit
+# Junseo의 블로그
+Python, R 등등 각종 코드 학습자료를 볼 수 있습니다.
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+## Python
+파이썬 기초문법
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## R
+빅데이터 분석 및 통계 시각화
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+Please check this URL  
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+[Let's see]: https://junsesoon.github.io/  

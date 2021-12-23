@@ -1,13 +1,13 @@
 ---
 layout: list
-category: R
+category: Python
 bigtitle: Code
-slug: code
+slug: Code
 description: >
-  R submenu
+  Python submenu
 
 related_posts:
-    -
+  -
 list: true
 order: 1
 ---
