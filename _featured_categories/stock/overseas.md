@@ -1,10 +1,10 @@
 ---
 layout: list
-category: subcat
-bigtitle: Test1
-slug: test1
+category: stock
+bigtitle: Overseas
+slug: overseas
 description: >
-  하위메뉴 테스트1
+  해외 주식 자료
 
 related_posts:
     - 

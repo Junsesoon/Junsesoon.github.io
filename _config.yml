@@ -20,18 +20,18 @@ url:                   https://junsesoon.github.io
 lang:                  ko-KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 샘플 블로그
+title:                 Home
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  샘플
+  Junseo의 블로그
 
 # A shorter description for the sidebar.
-tagline:               블로그 샘플
+tagline:               Junseo의 블로그
 
 # A list of keywords for your blog
-keywords:              [sample]
+keywords:              [BigData/Machine Learning/Deep Learning]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -52,17 +52,17 @@ menu:
     url:               /about/
   - title:             Posts
     url:               /posts/
-  - title:             Example1
-    url:               /example1/
-  - title:             Example2
-    url:               /example2/
-  - title:             Subcat
-    url:               /subcat/
+  - title:             Python
+    url:               /python/
+  - title:             R
+    url:               /r/
+  - title:             Stock
+    url:               /Stock/
     submenu:
-      - title:         Test1
-        url:           /test1/
-      - title:         Test2
-        url:           /test2/
+      - title:         Domestic
+        url:           /domestic/
+      - title:         Overseas
+        url:           /overseas/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..

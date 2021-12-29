@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: Example2
+title: Python
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example2
+slug: python
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  메뉴 예시2
+  Python 학습자료
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

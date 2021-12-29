@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example2-post1
+title: R-post1
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
 description: >
@@ -8,7 +8,7 @@ description: >
   Modernized design, big headlines, and big new features.
 sitemap: false
 categories:
-  - example2
+  - R
 ---
 
 Version 9 is the most complete version of Hydejack yet.

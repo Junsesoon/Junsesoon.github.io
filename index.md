@@ -20,13 +20,14 @@ Github pages 블로그를 운영하는 중입니다.💻
 
 > 📝 Machine Learning, Deep Learning
 
+<!--
 <div class="me">
     <div><img src= "/assets/me/img1.jpg"></div>
     <div><img src= "/assets/me/img2.jpg"></div>
     <div><img src= "/assets/me/img3.jpg"></div>
     <div><img src= "/assets/me/img4.jpg"></div>
 </div>
-
+-->
   <script>
     $(document).ready(function(){
       $('.me').slick();

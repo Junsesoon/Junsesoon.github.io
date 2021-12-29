@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Subcat-Test1-post1
+title: Stock-Overseas-post2
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
@@ -11,11 +11,11 @@ description: >
   Version 9.1 provides minor design changes, new features, and closes multiple issues.
 invert_sidebar: true
 categories:
-  - subcat
-  - test1
+  - stock
+  - overseas
 ---
 
-# Subcat-Test1-post1
+# Stock-Overseas-post2
 
 What's New in Hydejack 9.1?
 
