@@ -52,10 +52,19 @@ menu:
     url:               /about/
   - title:             Posts
     url:               /posts/
-  - title:             Python
-    url:               /python/
-  - title:             R
-    url:               /r/
+  - title:             Code
+    url:               /Code/
+    submenu:
+      - title:         Python
+        url:           /python/
+      - title:         R
+        url:           /r/
+      - title:         Git
+        url:           /git/
+      - title:         SQL
+        url:           /sql/
+      - title:         ADP
+        url:           /ADP/
   - title:             Stock
     url:               /Stock/
     submenu:
@@ -63,6 +72,8 @@ menu:
         url:           /domestic/
       - title:         Overseas
         url:           /overseas/
+  - title:             Note
+    url:               /note/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
