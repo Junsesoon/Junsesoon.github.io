@@ -12,54 +12,12 @@ hide_description: false
 
 <br>
 
-## 소개
+## 블로그
 ---
-Github pages 블로그를 운영하는 중입니다.💻  
+반갑습니다. 제 블로그에 오신 것을 환영합니다✨  
 
-제 📚**관심분야**는 다음과 같습니다.
+천천히 둘러보시고 댓글도 달아주시면 감사하겠습니다.💕
 
-> 📝 BigData, Machine Learning, Deep Learning
+오늘도 행복한 하루 되세요😊
 
-## Personal Data
-생년월일: 1997년생
-거주지: 대한민국 인천광역시 남동구  
-연락처: junsesoon@naver.com  
-
-## education
-2013 ~ 2016 정석항공과학고등학교  
-2016 ~ 2018 (주)한국항공우주기술협회 항공기술직업전문학교  
-2021 ~ 현재 인천더조은컴퓨터학원  
-
-## skils
-- Python
-- R
-- SQL
-- HTML & CSS
-- Linux
-
-## certificate
-- 1종 보통
-- 항공정비사 면허
-- 항공산업기사
-- 항공교통안전관리자
-- 항공기체정비 기능사
-- 전기 기능사
-- 전자기기 기능사
-- 무선설비 기능사
-- 토익 515점
-
-<!--
-<div class="me">
-    <div><img src= "/assets/me/img1.jpg"></div>
-    <div><img src= "/assets/me/img2.jpg"></div>
-    <div><img src= "/assets/me/img3.jpg"></div>
-    <div><img src= "/assets/me/img4.jpg"></div>
-</div>
--->
-  <script>
-    $(document).ready(function(){
-      $('.me').slick();
-    });
-  </script>
-
----
+> 📝 데이터 분석, 머신러닝, 리눅스, 주식 기타 등등

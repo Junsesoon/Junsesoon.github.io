@@ -8,7 +8,7 @@ description: >
     주식
 ---
 
-# Stock
+# 주식
 
 ## 카테고리
 
