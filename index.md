@@ -21,7 +21,7 @@ Github pages 블로그를 운영하는 중입니다.💻
 > 📝 BigData, Machine Learning, Deep Learning
 
 ## Personal Data
-생년월일: 1997.11.28  
+생년월일: 1997년생
 거주지: 대한민국 인천광역시 남동구  
 연락처: junsesoon@naver.com  
 
@@ -35,6 +35,7 @@ Github pages 블로그를 운영하는 중입니다.💻
 - R
 - SQL
 - HTML & CSS
+- Linux
 
 ## certificate
 - 1종 보통
