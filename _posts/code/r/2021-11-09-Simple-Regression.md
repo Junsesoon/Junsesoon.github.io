@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Simple-Regression
-image:
-  path: /assets/img/posts/SimpleRegression.jpeg
+#image:
+#  path: /assets/img/code/r/SimpleRegression.jpeg
 description: >
   단순선형 회귀분석, 잔차, 회귀방정식
 sitemap: false
@@ -14,6 +14,9 @@ categories:
 ---
 
 # 단순선형 회귀분석
+
+<b>이번 포스팅에서는 R을 이용한 단순 선형 회귀분석에 대해서 다뤄보도록 하겠습니다. :)</b>
+
 > 회귀분석이란?  
 > : 특정 변수(독립변수)가 다른 변수(종속변수)에 어떠한 영향을 미치는가를 분석하는 방법
 
