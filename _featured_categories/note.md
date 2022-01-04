@@ -5,7 +5,7 @@ slug: note
 menu: true
 submenu: true
 description: >
-    Note
+    잡다한 정보모음
 ---
 
 # 유용한 기록들
