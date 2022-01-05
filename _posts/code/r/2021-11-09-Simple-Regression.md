@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple-Regression
+title: 2021-11-09-Simple-Regression
 #image:
 #  path: /assets/img/code/r/SimpleRegression.jpeg
 description: >

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python-Variables&memory addresses
+title: 2021-10-06-python-Variables&memory addresses
 subtitle: 변수와 메모리 주소
 tags: Variables, 메모리주소
 description: >
