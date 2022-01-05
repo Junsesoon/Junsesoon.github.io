@@ -7,9 +7,11 @@ layout: base
 {% include analytics.html %}
 
 {% include components/page-button.html %}
-{% include_cached components/about.html author=page.author %}
 {% include components/related-posts.html %}
 {% include components/comments.html %}
+<!-- 게시물 하단 작가 소개 추가
+  {% include_cached components/about.html author=page.author %}
+-->
 
 <!-- list layout -->
 {% if page.list %}
@@ -44,10 +46,6 @@ layout: base
 <!-- <script>console.log("{{addons}}"); console.log("{{page.addons}}"); console.log("{{site.hydejack.post_addons}}")</script> -->
 {% for addon in addons %}
   {% case addon %}
-  {% when 'about' %}
-    {% include_cached components/about.html author=page.author %}
-  {% when 'related' %}
-    {% include components/related-posts.html %}
   {% when 'comments' %}
     {% include my-comments.html %}
   {% else %}
