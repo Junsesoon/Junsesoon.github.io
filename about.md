@@ -8,27 +8,23 @@ hide_description: true
 
 # About
 
-<!--author-->
-
-<br>
-
 ## 소개
 ---
-Github pages 블로그를 운영하는 중입니다.💻  
+이상과 현실의 징검다리
 
 제 📚**관심분야**는 다음과 같습니다.
 
 > 📝 BigData, Machine Learning, Deep Learning
 
 ## Personal Data
-생년월일: 1997년생
-거주지: 대한민국 인천광역시 남동구  
+생년월일: 1997년생  
+거주지: 인천광역시 남동구  
 연락처: junsesoon@naver.com  
 
 ## education
-2013 ~ 2016 정석항공과학고등학교  
-2016 ~ 2018 (주)한국항공우주기술협회 항공기술직업전문학교  
 2021 ~ 현재 인천더조은컴퓨터학원  
+2016 ~ 2018 (주)한국항공우주기술협회 항공기술직업전문학교  
+2013 ~ 2016 정석항공과학고등학교  
 
 ## skils
 - Python
